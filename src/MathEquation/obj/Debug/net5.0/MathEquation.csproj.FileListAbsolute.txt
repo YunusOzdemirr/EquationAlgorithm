@@ -1,0 +1,15 @@
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/MathEquation.deps.json
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/MathEquation.runtimeconfig.json
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/MathEquation.runtimeconfig.dev.json
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/MathEquation.dll
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/ref/MathEquation.dll
+/Users/yunus/Desktop/MathEquation/MathEquation/bin/Debug/net5.0/MathEquation.pdb
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.csproj.AssemblyReference.cache
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.AssemblyInfoInputs.cache
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.AssemblyInfo.cs
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.csproj.CoreCompileInputs.cache
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.dll
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/ref/MathEquation.dll
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.pdb
+/Users/yunus/Desktop/MathEquation/MathEquation/obj/Debug/net5.0/MathEquation.genruntimeconfig.cache
