@@ -39,6 +39,7 @@ namespace MathEquation
             {
                 for (int j = 0; j <= delims.Length; j++)
                 {
+                    //this here if delims is contains in text booleanValue is true
                     booleanValue = text.Contains(delims[j]);
                     return booleanValue;
                 }

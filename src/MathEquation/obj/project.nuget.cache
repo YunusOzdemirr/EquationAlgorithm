@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N+z9l4+j72j0XEW4cHGiHGHUTrijiBtSnRHBcsDTtRHNANK44Z/S09yJkwoa4FxjW6fMbr88siimjjNbFJa4gA==",
+  "dgSpecHash": "evQNl9w/BjMwX+ZpjQGbCy77bHFjLQwh1ge/PzdoAU0Y617lU4XZyzgEHiTWwcSkzgFTiwRGB0cV/nBKlj/qmA==",
   "success": true,
-  "projectFilePath": "/Users/yunus/Desktop/MathEquation/MathEquation/MathEquation.csproj",
+  "projectFilePath": "/Users/yunus/Documents/GitHub/EquationAlgorithm/src/MathEquation/MathEquation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

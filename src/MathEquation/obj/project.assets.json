@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunus/Desktop/MathEquation/MathEquation/MathEquation.csproj",
+      "projectUniqueName": "/Users/yunus/Documents/GitHub/EquationAlgorithm/src/MathEquation/MathEquation.csproj",
       "projectName": "MathEquation",
-      "projectPath": "/Users/yunus/Desktop/MathEquation/MathEquation/MathEquation.csproj",
+      "projectPath": "/Users/yunus/Documents/GitHub/EquationAlgorithm/src/MathEquation/MathEquation.csproj",
       "packagesPath": "/Users/yunus/.nuget/packages/",
-      "outputPath": "/Users/yunus/Desktop/MathEquation/MathEquation/obj/",
+      "outputPath": "/Users/yunus/Documents/GitHub/EquationAlgorithm/src/MathEquation/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
